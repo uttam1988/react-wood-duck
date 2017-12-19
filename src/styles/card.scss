@@ -16,7 +16,7 @@
   }
 
   .card-header {
-    border-bottom: 0.1rem solid $lightest-grey;
+    border-bottom: $thin-border solid $lightest-grey;
     display: block;
     font-size: $h3-title-font-size;
     overflow: hidden;
